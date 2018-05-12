@@ -1,0 +1,30 @@
+_repo: Night-Fall-in-the-Ti-Tree_39475
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39475-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Rede, Geraldine
+    gutenberg_agent_id: '40037'
+    url: http://www.gutenberg.org/2009/agents/40037
+  - agent_name: Teague, Violet
+    birthdate: 1872
+    deathdate: 1951
+    gutenberg_agent_id: '40038'
+    url: http://www.gutenberg.org/2009/agents/40038
+description: ''
+gutenberg_issued: '2012-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39475'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Rabbits -- Juvenile poetry'
+- !lcsh 'Children''s poetry, Australian'
+title: Night Fall in the Ti-Tree
+url: http://www.gutenberg.org/ebooks/39475
